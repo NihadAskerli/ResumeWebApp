@@ -1,0 +1,4 @@
+com\mycompany\resumewebapp\controller\JSPFilter.class
+com\mycompany\resumewebapp\controller\ErrorController.class
+com\mycompany\resumewebapp\controller\UserController.class
+com\mycompany\resumewebapp\controller\UserDetailController.class
