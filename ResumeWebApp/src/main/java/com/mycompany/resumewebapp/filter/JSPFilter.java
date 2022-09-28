@@ -1,4 +1,4 @@
-package com.mycompany.resumewebapp.controller;
+package com.mycompany.resumewebapp.filter;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletResponse;
@@ -24,11 +24,4 @@ public  class JSPFilter implements Filter {
     @Override
     public void destroy() {
  }
-
-
-
-
-
-  
-
 }
